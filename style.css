@@ -375,7 +375,7 @@ html {
 	transition: .3s ease background-color;
 }
 .hire .hire-button:hover {
-	background-color: black;
+	background-color: red;
 }
 /* End Hire Section  */
 
